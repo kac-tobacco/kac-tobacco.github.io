@@ -4,13 +4,13 @@ var store = [{
         "tags": [],
         "url": "/docs/nicotine/",
         "teaser":null},{
-        "title": "Intro",
-        "excerpt":"Jedziemy!  ","categories": [],
-        "tags": [],
-        "url": "/fight/intro/",
-        "teaser":null},{
         "title": "Jak to zrobić?",
         "excerpt":"cześć heh zajrzyj na Brzozow.xyz   ","categories": ["Rzucanie","Ograniczanie"],
         "tags": ["nikotyna","smoła"],
         "url": "/rzucanie/ograniczanie/jak-to-jest/",
+        "teaser":null},{
+        "title": "Intro",
+        "excerpt":"Jedziemy!  ","categories": [],
+        "tags": [],
+        "url": "/travel/intro/",
         "teaser":null}]
